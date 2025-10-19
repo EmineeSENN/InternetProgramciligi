@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>emine</title>
+    <link rel="icon" href="favicon.ico" type ="image/x-icon">
+    <style>
+      h1{
+        color:red;
+        background-color: yellow;
+      }
+      div{
+        border: px solid black;
+        margin-top:10px;
+        margin-left:20px;
+        margin-right:30px;
+        margin-bottom:40px; 
+        padding:100px;
+        background-color: pink;
+        text-align: center;
+      }
+      table, th, td{
+        border: 2px solid rgb(86, 11, 185);
+        border-collapse: collapse;
+        margin: 0 auto;
+      }
+      </style>
+</head>
+<body>
+      <div><table> 
+        <tr>
+          <th>İSİM</th>
+          <th>SOYİSİM</th>
+          <th>MAİL</th>
+          </tr>
+          <td>Emine Nisa</td>
+          <td>ŞEN</td>
+          <td>eminenisa.sen8@gmail.com</td>
+          </tr>
+          <td>Elif</td>
+          <td>ULUSOY</td>
+          <td>elifulusoy3248@gmail.com</td>
+          
+          </table></div>
+          <br>
+      
+          
+<html>
+<style>
+form {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+
+label {
+  display: block;
+}
+
+input[type=text], select {
+  width: 100%;
+  padding: 12px;
+  margin: 8px 0;
+  border-style: solid;
+  border-color: black black red black;
+  border-radius: 0;
+  box-sizing: border-box;
+}
+
+input[type=text]:focus, select:focus {
+  border-color: black black red black;
+}
+
+input[type=submit] {
+  width: 100%;
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+</style>
+<body>
+
+<form action="/action_page.php">
+  <label for="fname">İsim</label>
+  <input type="text" id="isim" name="isim" >
+
+  <label for="lname">Soyisim</label>
+  <input type="text" id="soyisim" name="soyisim" >
+
+  <label for="ülke">Ülke</label>
+  <select id="ülke" name="ülke">
+    <option value="türkiye">TÜRKİYE</option>
+    <option value="ingiltere">İNGİLTERE</option>
+    <option value="usa">USA</option>
+  </select>
+  
+  <input type="submit" value="GÖNDER">
+</form>
+
+</body>
+</html>
