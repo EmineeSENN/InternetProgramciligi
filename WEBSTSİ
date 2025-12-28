@@ -252,7 +252,7 @@
                                 <p class="card-text">Dışı çıtır, içi yumuşacık kruvasanımız; taze krema , çilek ve orman meyveleriyle... </p>
                                 <div class="d-flex justify-content-between align-items-center">
                                     <div class="btn-group">
-                                        <button type="button" class="btn btn-sm btn-outline-secondary">Detay</button>
+                                        <a href="kruvasan.html" class="btn btn-sm btn-outline-secondary">Detay</a>
                                         <button type="button" class="btn btn-sm btn-outline-primary">Sepete Ekle</button>
                                     </div> 
                                     <small class="text-body-secondary">10 dk</small>
@@ -269,7 +269,7 @@
                                 <p class="card-text">Taptaze orman meyveleri ile hazırlanan ferahlatıcı bowl ile enerjinizi yükseltin.</p>
                                 <div class="d-flex justify-content-between align-items-center">
                                     <div class="btn-group">
-                                        <button type="button" class="btn btn-sm btn-outline-secondary">Detay</button>
+                                        <a href="bowl.html" class="btn btn-sm btn-outline-secondary">Detay</a>
                                         <button type="button" class="btn btn-sm btn-outline-primary">Sepete Ekle</button>
                                     </div>
                                     <small class="text-body-secondary">10 dk</small>
@@ -292,7 +292,7 @@
     <p class="card-text">Taptaze orman meyveleriyle hazırlanan yaş pastamız, özel günlerinize renk katıyor.</p>
                                 <div class="d-flex justify-content-between align-items-center">
                                     <div class="btn-group">
-                                        <button type="button" class="btn btn-sm btn-outline-secondary">Detay</button>
+                                        <a href="yaspasta.html" class="btn btn-sm btn-outline-secondary">Detay</a>
                                         <button type="button" class="btn btn-sm btn-outline-primary">Sepete Ekle</button>
                                     </div>
                                     <small class="text-body-secondary">2 Adet bulunuyor </small>
@@ -311,7 +311,7 @@
                                 </p>
                                 <div class="d-flex justify-content-between align-items-center">
                                     <div class="btn-group">
-                                        <button type="button" class="btn btn-sm btn-outline-secondary">Detay</button>
+                                        <a href="cheesecake.html" class="btn btn-sm btn-outline-secondary">Detay</a>
                                         <button type="button" class="btn btn-sm btn-outline-primary">Sepete Ekle</button>
                                     </div>
                                     <small class="text-body-secondary">Hazır</small>
@@ -330,7 +330,7 @@
                                 </p>
                                 <div class="d-flex justify-content-between align-items-center">
                                     <div class="btn-group">
-                                        <button type="button" class="btn btn-sm btn-outline-secondary">Detay</button>
+                                        <a href="brownie.html" class="btn btn-sm btn-outline-secondary">Detay</a>
                                         <button type="button" class="btn btn-sm btn-outline-primary">Sepete Ekle</button>
                                     </div>
                                     <small class="text-body-secondary">Hazır</small>
@@ -348,7 +348,7 @@
                                 </p>
                                 <div class="d-flex justify-content-between align-items-center">
                                     <div class="btn-group">
-                                        <button type="button" class="btn btn-sm btn-outline-secondary">Detay</button>
+                                        <a href="cupcake.html" class="btn btn-sm btn-outline-secondary">Detay</a>
                                         <button type="button" class="btn btn-sm btn-outline-primary">Sepete Ekle</button>
                                     </div>
                                     <small class="text-body-secondary">Hazır</small>
@@ -366,7 +366,7 @@
                                 </p>
                                 <div class="d-flex justify-content-between align-items-center">
                                     <div class="btn-group">
-                                        <button type="button" class="btn btn-sm btn-outline-secondary">Detay</button>
+                                        <a href="makaron.html" class="btn btn-sm btn-outline-secondary">Detay</a>
                                         <button type="button" class="btn btn-sm btn-outline-primary">Sepete Ekle</button>
                                     </div>
                                     <small class="text-body-secondary">Hazır</small>
@@ -382,7 +382,7 @@
                                 <p class="card-text">Kıtır taban, pastacı kreması ve taptaze orman meyveleri.Karşı konulmaz lezzet. </p>
                                 <div class="d-flex justify-content-between align-items-center">
                                     <div class="btn-group">
-                                        <button type="button" class="btn btn-sm btn-outline-secondary">Detay</button>
+                                        <a href="tart.html" class="btn btn-sm btn-outline-secondary">Detay</a>
                                         <button type="button" class="btn btn-sm btn-outline-primary">Sepete Ekle</button>
                                     </div> 
                                     <small class="text-body-secondary">Hazır</small>
@@ -398,7 +398,7 @@
                                 <p class="card-text">Büyük, yumuşak ve bol çikolatalı.Her köşesi bol bol erimiş çikolata parçalarıyla kaplı. </p>
                                 <div class="d-flex justify-content-between align-items-center">
                                     <div class="btn-group">
-                                        <button type="button" class="btn btn-sm btn-outline-secondary">Detay</button>
+                                        <a href="cookie.html" class="btn btn-sm btn-outline-secondary">Detay</a>
                                         <button type="button" class="btn btn-sm btn-outline-primary">Sepete Ekle</button>
                                     </div> 
                                     <small class="text-body-secondary">Hazır</small>
